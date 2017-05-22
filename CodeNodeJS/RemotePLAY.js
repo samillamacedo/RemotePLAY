@@ -80,7 +80,7 @@ function postergateHistoryClearing() {
   clearTimeout(timeout)
 
   // Inicia um novo timer para zerar histórico
-  timeout = setTimeout(clearHistory, 4000)
+  timeout = setTimeout(clearHistory, 1500)
 }
 
 function select(button){
