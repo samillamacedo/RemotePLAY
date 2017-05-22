@@ -1,7 +1,7 @@
 ![](https://github.com/samillamacedo/RemotePLAY/blob/master/RemotePlay.png)
 
 ______________________________
-Remote control with keypad that uses the arduino platform sending commands through the serial port
+Remote controller with keypad that uses the arduino platform sending commands through the serial port
 
 ![](https://github.com/samillamacedo/RemotePLAY/blob/master/Terminal.gif)
 
@@ -30,7 +30,7 @@ Remote control with keypad that uses the arduino platform sending commands throu
 #### Node js
 1. Install [node.js](https://nodejs.org/en/download/)
 2. Open RemotePLAY.js in a text editor
-3. Set the port to Arduino port and if you want, set the buttons id
+3. Set the port to Arduino port and set the buttons id
 4. On Terminal Install acess the folder **RemotePLAY** 
 5. run `npm start`
 6. ENJOY IT!
