@@ -6,10 +6,11 @@ Remote control with keypad that uses the arduino platform sending commands throu
 
 
 # What do you need 
-*Arduino Uno/Nano/Mega or similar
-*infrared receiver
-*remote control
-*jumpers
+
+* Arduino Uno/Nano/Mega or similar
+* infrared receiver
+* remote control
+* jumpers
 
 ## How to Install - Hardware
 1. Consult infrared receiver datasheet
