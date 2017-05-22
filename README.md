@@ -28,9 +28,12 @@ Remote control with keypad that uses the arduino platform sending commands throu
 6. The code on the Serial Monitor are the buttons id.
 
 #### Node js
-1. Install node.js
+1. Install [node.js](https://nodejs.org/en/download/)
 2. Open RemotePLAY.js in a text editor
 3. Set the port to Arduino port and if you want, set the buttons id
-4. On Terminal Install the libraries npm robot.js and npm serialport.js
-5. Run the RemotePLAY.js on Terminal
+4. On Terminal Install acess the folder **RemotePLAY** 
+5. run 
+---
+npm start
+---
 6. ENJOY IT!
