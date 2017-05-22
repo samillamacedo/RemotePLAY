@@ -20,7 +20,7 @@ Remote control with keypad that uses the arduino platform sending commands throu
 
 > ## How to Install - Software
 #### Arduino
-1. Install Arduino IDE
+1. Install [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 2. Connect Arduino to PC/Notebook
 3. On Tolls > Ports select the Arduino port
 4. Run the file RemotePLAY.ino
@@ -32,8 +32,5 @@ Remote control with keypad that uses the arduino platform sending commands throu
 2. Open RemotePLAY.js in a text editor
 3. Set the port to Arduino port and if you want, set the buttons id
 4. On Terminal Install acess the folder **RemotePLAY** 
-5. run 
----
-npm start
----
+5. run 'npm start'
 6. ENJOY IT!
