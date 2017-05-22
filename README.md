@@ -1,4 +1,4 @@
-!(https://github.com/samillamacedo/RemotePLAY/blob/master/RemotePlay.png)
+![](https://github.com/samillamacedo/RemotePLAY/blob/master/RemotePlay.png)
 
 ______________________________
 Remote control with keypad that uses the arduino platform sending commands through the serial port
@@ -8,7 +8,7 @@ Remote control with keypad that uses the arduino platform sending commands throu
 
 > ## What do you need 
 
-  * Arduino Uno/Nano/Mega or similar
+* Arduino Uno/Nano/Mega or similar
 * infrared receiver
 * remote control
 * jumpers
@@ -24,7 +24,7 @@ Remote control with keypad that uses the arduino platform sending commands throu
 2. Connect Arduino to PC/Notebook
 3. On Tolls > Ports select the Arduino port
 4. Run the file RemotePLAY.ino
-5. Open the Serial Monitor and press the buttons on the remote controll
+5. Open the Serial Monitor and press the buttons on the remote control
 6. the code on the Serial Monitor are the buttons id.
 
 #### Node js
