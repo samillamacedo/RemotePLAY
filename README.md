@@ -9,9 +9,9 @@ Remote control with keypad that uses the arduino platform sending commands throu
 > ## What do you need 
 
 * Arduino Uno/Nano/Mega or similar
-* infrared receiver
-* remote control
-* jumpers
+* Digital infrared receiver
+* Remote control
+* Jumpers
 
 > ## How to Install - Hardware
 1. Consult infrared receiver datasheet
@@ -25,7 +25,7 @@ Remote control with keypad that uses the arduino platform sending commands throu
 3. On Tolls > Ports select the Arduino port
 4. Run the file RemotePLAY.ino
 5. Open the Serial Monitor and press the buttons on the remote control
-6. the code on the Serial Monitor are the buttons id.
+6. The code on the Serial Monitor are the buttons id.
 
 #### Node js
 1. Install node.js
